@@ -481,9 +481,17 @@ The PBIX contains the data model, DAX measures and final three-page analytical r
 
 # Live Interactive Dashboard
 
-A public interactive version of the Power BI report will be linked here after publication through Power BI Service.
+Explore the complete interactive Power BI report:
 
-**Live Dashboard:** Coming soon
+**[View the Live Power BI Dashboard]([PASTE-YOUR-POWER-BI-PUBLIC-LINK-HERE](https://app.powerbi.com/view?r=eyJrIjoiNDUzMjhhZTUtODQwOC00NGJhLWI2YjItNjY0ZDUyNTNkYzdhIiwidCI6ImE4ZmVlMjljLTNmNDktNDdmZC1iOTRiLWM3MzEwNjdhMTkwNiJ9&pageName=ba809bbaaa5af703ca49))**
+
+The interactive report contains all three management views:
+
+- Executive Commercial Performance
+- Band A Service Intelligence
+- Executive Exception Centre
+
+The report supports interactive filtering and drill-down across the commercial-performance and Band A service-intelligence datasets.
 
 ---
 
