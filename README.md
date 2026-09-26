@@ -49,6 +49,83 @@ The commercial dataset supports analysis of:
 - ATC&C Variance to Target
 - Revenue Gap
 
+# Key Findings & Management Implications
+
+The analysis was designed to move beyond dashboard reporting and identify the commercial and service-performance exceptions that warrant management attention.
+
+## Commercial Performance Findings
+
+Across the 27-month commercial analysis period from **January 2024 to March 2026**:
+
+- **Energy Offtake totalled 10,492 GWh**, while **Energy Billed totalled 8,811 GWh**.
+- This resulted in an **Energy Accounting Efficiency of 83.98%**, indicating that a material proportion of energy received was not converted into billed energy.
+- **Revenue Collected totalled ₦885.7 billion**.
+- **Collection Efficiency was 88.60%**, showing that not all billed value was converted into collected revenue.
+- The combined effect of energy-accounting and collection performance produced an **Indicative ATC&C of 25.60%**.
+- Against an applicable **ATC&C Target of 16.91%**, this represented an **adverse variance of +8.69 percentage points**.
+- The analysis also identified a **₦114.0 billion Revenue Gap** between total billing and revenue collected.
+
+### Management Implication
+
+The commercial results indicate that management attention should not focus on collection performance alone.
+
+The **+8.69 percentage-point ATC&C variance** reflects the combined effect of energy-accounting and collection performance. This supports further investigation into the drivers of both:
+
+1. the gap between energy offtake and energy billed; and
+2. the gap between customer billing and revenue collection.
+
+The **₦114.0 billion billing-to-collection gap** also provides a material commercial exception for further investigation and prioritisation.
+
+---
+
+## Band A Service Intelligence Findings
+
+The Band A service analysis examined **126 sampled feeder-service events** across seven reporting windows between **January and August 2026**.
+
+The analysis identified:
+
+- **87 unique affected feeders** within the sampled event population.
+- **23 repeat feeders**, representing a **26.44% Repeat Feeder Rate**.
+- **95 events at 11kV** and **31 events at 33kV**.
+- **Igbobi** emerged as the leading source-substation service hotspot, accounting for **24 sampled events**.
+- The most recurring feeders appeared in as many as **five sampled reporting windows**, indicating that some service exceptions were recurring rather than isolated events.
+
+### Management Implication
+
+The recurrence analysis provides a basis for moving from network-wide event monitoring towards **exception-based prioritisation**.
+
+Feeders appearing repeatedly across different reporting windows warrant further operational investigation, while the concentration of sampled events around **Igbobi** identifies a service hotspot for management attention.
+
+The presence of **31 sampled 33kV events** also supports monitoring higher-voltage service exceptions separately from the larger 11kV event population.
+
+---
+
+## Executive Decision Priorities
+
+Bringing the commercial and service analyses together highlights four management priorities:
+
+1. **ATC&C Performance**  
+   Investigate the drivers behind the **25.60% Indicative ATC&C**, which was **8.69 percentage points above the 16.91% target**.
+
+2. **Revenue Conversion**  
+   Examine the components of the **₦114.0 billion billing-to-collection gap** and identify opportunities to strengthen revenue conversion.
+
+3. **Recurring Service Exceptions**  
+   Prioritise feeders appearing repeatedly across sampled reporting windows rather than treating all feeder events as equally significant.
+
+4. **Service Hotspots and 33kV Exceptions**  
+   Investigate the concentration of sampled service events around **Igbobi** and maintain visibility of the **31 recorded 33kV events**.
+
+---
+
+## Interpretation Boundary
+
+These findings are intended to support management prioritisation and further investigation.
+
+The **Indicative ATC&C** is an analytical measure derived from the available commercial-performance data and should not be presented as an independently audited regulatory ATC&C result.
+
+Similarly, the Band A analysis is based on **126 events captured from sampled public service information across seven reporting windows**. Recurring feeders, source-substation hotspots and voltage-level concentrations identify patterns in the available data but do not, by themselves, establish engineering root cause.
+
 ### Band A Service Intelligence
 
 **January – August 2026**
